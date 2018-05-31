@@ -78,3 +78,58 @@ li a:hover:not(.active) {
 	grid-column-end: span 1;
 	text-align: justify;
 }
+.leftpicture2 {
+	padding:1em;
+	grid-column-start: 1;
+	grid-column-end: span 1;
+}
+.leftpicture3 {
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 1;
+}
+.recording {
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 1;
+}
+.leftsidebar3 {
+	padding: 1em;
+	grid-column-start:1;
+	grid-column-end: span 2;
+}
+.recordingside {
+	padding: 1em;
+	grid-colum-start: 2;
+	grid-column-end: span 1;
+}
+.list {
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+}
+.listp {
+	padding: 1em;
+	grid-colum-start: 1;
+	grid-colum-end: span 1;
+}
+.list2 {
+	padding: 1em;
+	grid-column-start: 2;
+	grid-column-end: span 1;
+}
+.bottompicture {
+	padding:1em;
+	grid-column-start: 1;
+	grid-column-end: span 1;
+}
+.bottompicture2 {
+	padding:1em;
+	grid-column-start: 2;
+	grid-column-end: span 1;
+}
+.sum {
+	padding: 1em;
+	grid-colum-start: 1;
+	grid-column-end: span 1;
+}
